@@ -1,0 +1,21 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "0702hjj"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = ""
+  description = "A CS undergrad building tools that free people from tedious legacy workflows."
+
+  [params.author]
+    name = "0702hjj"
+    headline = "CS undergrad @ HITSZ"
+    image = "avatar.png"
+    bio = "I enjoy wrestling with hard problems — a habit from years of math competitions — and I believe the right tools can free people from tedious legacy workflows, so that more attention goes to creative problems and less to repetitive ones."
+    links = [
+      { github = "https://github.com/0702hjj" },
+    ]
