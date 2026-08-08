@@ -7,7 +7,7 @@ tags: ["AI", "Agent", "Skill", "MCP"]
 showAuthor: true
 ---
 
-最近看到HITSZ OSA （811633021 [![QQ 加群链接](https://img.shields.io/badge/QQ%E7%BE%A4-%E7%82%B9%E5%87%BB%E5%8A%A0%E7%BE%A4-blue?logo=tencent%20qq&style=flat-square)](https://qm.qq.com/cgi-bin/qm/qr?k=EmOyWeZrOaOeSoVrVLoozyKYdvjOia_t)）内关于Agent的一些讨论，想到去年杨植麟的一次[访谈](https://www.bilibili.com/video/BV1hFe1zSEXp/)，觉得值得汇总，结合自己的一些[实践](https://0702hjj.github.io/AI_IFC/)做一次分享。
+最近看到HITSZ OSA （811633021) [![QQ 加群链接](https://img.shields.io/badge/QQ%E7%BE%A4-%E7%82%B9%E5%87%BB%E5%8A%A0%E7%BE%A4-blue?logo=tencent%20qq&style=flat-square)](https://qm.qq.com/cgi-bin/qm/qr?k=EmOyWeZrOaOeSoVrVLoozyKYdvjOia_t)内关于Agent的一些讨论，想到去年杨植麟的一次[访谈](https://www.bilibili.com/video/BV1hFe1zSEXp/)，觉得值得汇总，结合自己的一些[实践](https://0702hjj.github.io/AI_IFC/)做一次分享。
 
 ## 一、让 AI 写代码时的两条原则
 
