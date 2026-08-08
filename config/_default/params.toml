@@ -10,7 +10,7 @@ disableImageOptimizationMD = false
 disableTextInHeader = false
 hotlinkFeatureImage = false
 fingerprintAlgorithm = "sha512"
-showComments = false
+showComments = true
 
 [header]
   layout = "basic"
@@ -58,7 +58,7 @@ showComments = false
   showAuthorsBadges = false
   showWordCount = true
   showZenMode = false
-  showComments = false
+  showComments = true
 
 [list]
   showHero = false
