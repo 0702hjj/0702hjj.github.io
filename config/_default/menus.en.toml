@@ -1,25 +1,35 @@
 [[main]]
-  name = "Projects"
-  pageRef = "projects"
+  name = "Blog"
+  pageRef = "posts"
   weight = 10
+
+[[main]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 20
 
 [[main]]
   name = "About"
   pageRef = "about"
-  weight = 20
+  weight = 30
 
 [[main]]
   identifier = "github"
   pre = "github"
   url = "https://github.com/0702hjj"
-  weight = 30
+  weight = 40
 
 [[footer]]
-  name = "Projects"
-  pageRef = "projects"
+  name = "Tags"
+  pageRef = "tags"
   weight = 10
+
+[[footer]]
+  name = "About"
+  pageRef = "about"
+  weight = 20
 
 [[footer]]
   name = "GitHub"
   url = "https://github.com/0702hjj"
-  weight = 20
+  weight = 30
